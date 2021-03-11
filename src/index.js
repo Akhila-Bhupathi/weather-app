@@ -35,7 +35,7 @@ const Main=()=> {
 
 
   const getWeatherData = () => {
-      const API_KEY='a54e078040f3fd2fa1345d6359cc7429';
+      
   const url=`https://api.openweathermap.org/data/2.5/forecast?q=bangalore&appid=${API_KEY}`;
 
 
