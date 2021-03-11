@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.weather__info{
+  display:flex;
+  justify-content: center;
+
+}
+
+.weather__info-day{
+  border:2px solid blue;
+  padding:10px;
+  margin:2px;
+
+}
+
+.weather__info-hour{
+  text-align: center;
+}
